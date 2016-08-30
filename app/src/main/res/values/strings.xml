@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day2b</string>
+    <string name="Hello_text">Hello World!</string>
+    <string name="Toast_text">Burnt toast</string>
+</resources>
